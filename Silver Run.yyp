@@ -1,12 +1,16 @@
 {
   "resources": [
+    {"id":{"name":"snd_jump","path":"sounds/snd_jump/snd_jump.yy",},"order":0,},
     {"id":{"name":"spr_endtitle","path":"sprites/spr_endtitle/spr_endtitle.yy",},"order":3,},
     {"id":{"name":"room_end","path":"rooms/room_end/room_end.yy",},"order":1,},
+    {"id":{"name":"snd_finale","path":"sounds/snd_finale/snd_finale.yy",},"order":1,},
     {"id":{"name":"obj_will","path":"objects/obj_will/obj_will.yy",},"order":0,},
     {"id":{"name":"obj_story","path":"objects/obj_story/obj_story.yy",},"order":3,},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":2,},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},"order":1,},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":1,},
+    {"id":{"name":"obj_jukebox","path":"objects/obj_jukebox/obj_jukebox.yy",},"order":4,},
+    {"id":{"name":"spr_silver","path":"sprites/spr_silver/spr_silver.yy",},"order":4,},
     {"id":{"name":"spr_will","path":"sprites/spr_will/spr_will.yy",},"order":0,},
     {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},"order":2,},
     {"id":{"name":"room_game","path":"rooms/room_game/room_game.yy",},"order":0,},
